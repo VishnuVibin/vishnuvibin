@@ -5,9 +5,6 @@
 AI & Data Science Student | AI/ML Developer | Full-Stack Developer
 </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Artificial+Intelligence;Machine+Learning;Computer+Vision;NLP+%7C+RAG;Full-Stack+Development" />
-</p>
 
 ## 🕹️ Contribution Game
 
