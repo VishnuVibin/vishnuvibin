@@ -7,22 +7,13 @@ AI & Data Science Student | AI/ML Developer | Full-Stack Developer
 
 <h2 align="center">🎮 My Contribution Game</h2>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/VishnuVibin/VishnuVibin/output/pacman-contribution-graph-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/VishnuVibin/VishnuVibin/output/pacman-contribution-graph.svg"
-  />
-
+<p align="center">
   <img
-    alt="Pac-Man contribution graph"
-    src="https://raw.githubusercontent.com/VishnuVibin/VishnuVibin/output/pacman-contribution-graph.svg"
+    src="https://raw.githubusercontent.com/VishnuVibin/VishnuVibin/output/pacman-contribution-graph-dark.svg"
+    alt="Pac-Man Contribution Game"
+    width="100%"
   />
-</picture>
+</p>
 <!--
 **VishnuVibin/vishnuvibin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
