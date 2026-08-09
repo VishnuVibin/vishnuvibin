@@ -9,13 +9,13 @@ AI & Data Science Student | AI/ML Developer | Full-Stack Developer
 
 ### 💻 Programming Languages
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,javascript" />
 </p>
 
 ### 🤖 AI / Machine Learning
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
 
@@ -23,7 +23,7 @@ AI & Data Science Student | AI/ML Developer | Full-Stack Developer
 
 ### 🧠 NLP / LLM / RAG
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
@@ -31,13 +31,13 @@ AI & Data Science Student | AI/ML Developer | Full-Stack Developer
 
 ### 🌐 Frontend Development
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,tailwind" />
 </p>
 
 ### ⚙️ Backend Development
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=flask,nodejs" />
 </p>
 
@@ -45,13 +45,13 @@ AI & Data Science Student | AI/ML Developer | Full-Stack Developer
 
 ### 🗄️ Databases
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### 🔧 Tools & Technologies
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
 </p>
 
@@ -59,7 +59,7 @@ AI & Data Science Student | AI/ML Developer | Full-Stack Developer
 
 ### ☁️ Deployment
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=vercel,docker" />
 </p>
 
