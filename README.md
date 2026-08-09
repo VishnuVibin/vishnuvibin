@@ -5,8 +5,65 @@
 AI & Data Science Student | AI/ML Developer | Full-Stack Developer
 </h3>
 
-<h2 align="center">🎮 My Contribution Game</h2>
+## 🛠️ Tech Stack
 
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,c" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+**AI:** Machine Learning • Deep Learning • Computer Vision • YOLOv8
+
+### 🧠 NLP / LLM / RAG
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**Technologies:** LLMs • RAG • LangChain • FAISS • Sentence Transformers • Embeddings • Prompt Engineering
+
+### 🌐 Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,tailwind" />
+</p>
+
+### ⚙️ Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,flask,nodejs" />
+</p>
+
+**Backend:** REST APIs • WebSockets • Spring Boot
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🔧 Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+</p>
+
+**Other:** Streamlit • Roboflow • EasyOCR • OpenRouter • REST APIs
+
+### ☁️ Deployment
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel,docker" />
+</p>
+
+<h2 align="center">🎮 Contribution Game</h2>
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/VishnuVibin/VishnuVibin/output/pacman-contribution-graph-dark.svg"
