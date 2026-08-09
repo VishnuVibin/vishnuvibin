@@ -10,7 +10,7 @@ AI & Data Science Student | AI/ML Developer | Full-Stack Developer
 ### 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,c" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript" />
 </p>
 
 ### 🤖 AI / Machine Learning
@@ -38,10 +38,10 @@ AI & Data Science Student | AI/ML Developer | Full-Stack Developer
 ### ⚙️ Backend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,flask,nodejs" />
+  <img src="https://skillicons.dev/icons?i=flask,nodejs" />
 </p>
 
-**Backend:** REST APIs • WebSockets • Spring Boot
+**Backend:** REST APIs • WebSockets 
 
 ### 🗄️ Databases
 
