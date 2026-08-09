@@ -4,6 +4,12 @@
 <h3 align="center">
 AI & Data Science Student | AI/ML Developer | Full-Stack Developer
 </h3>
+
+<h2 align="center">🎮 My Contribution Game</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VishnuVibin/VishnuVibin/output/pacman-contribution-graph.svg" />
+</p>
 <!--
 **VishnuVibin/vishnuvibin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
