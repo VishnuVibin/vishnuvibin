@@ -4,7 +4,7 @@
 <h3 align="center">
 AI & Data Science Student | AI/ML Developer | Full-Stack Developer
 </h3>
-
+<center>
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -54,7 +54,7 @@ AI & Data Science Student | AI/ML Developer | Full-Stack Developer
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
 </p>
-
+</center>
 **Other:** Streamlit • Roboflow • EasyOCR • OpenRouter • REST APIs
 
 ### ☁️ Deployment
