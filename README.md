@@ -285,11 +285,11 @@
 
 <br><br>
 
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/vishnu-vibin-48ab85281/)">
+<a href="https://www.linkedin.com/in/vishnu-vibin-48ab85281">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="[YOUR_PORTFOLIO_URL](https://vercel.com/vishnu2219)">
+<a href="https://vercel.com/vishnu2219">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
