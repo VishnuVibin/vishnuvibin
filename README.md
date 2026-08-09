@@ -243,38 +243,6 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=VishnuVibin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuVibin&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=VishnuVibin&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 GitHub Activity
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=VishnuVibin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-
-</div>
-
----
-
-<div align="center">
-
 ## 🌐 Connect With Me
 
 <br>
