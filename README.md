@@ -4,7 +4,7 @@
 <h3 align="center">
 AI & Data Science Student | AI/ML Developer | Full-Stack Developer
 </h3>
-<center>
+<p align="center">
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -70,7 +70,7 @@ AI & Data Science Student | AI/ML Developer | Full-Stack Developer
     alt="Pac-Man Contribution Game"
     width="100%"
   />
-</p>
+</p></p>
 <!--
 **VishnuVibin/vishnuvibin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
