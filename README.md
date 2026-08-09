@@ -151,7 +151,7 @@
 
 ---
 
-### 🧠 RAG-Based Study Assistant
+### 🧠 RAG-Based Teaching Assistant
 
 > AI-powered system that analyzes educational documents and retrieves relevant information using Retrieval-Augmented Generation.
 
