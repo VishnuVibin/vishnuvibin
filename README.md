@@ -14,6 +14,34 @@
 
 <div align="center">
 
+## 🎮 Contribution Arcade
+
+<br>
+
+### 👾 Pac-Man Contribution Game
+
+<p>
+  <img
+    src="https://raw.githubusercontent.com/VishnuVibin/VishnuVibin/output/pacman-contribution-graph-dark.svg"
+    alt="Pac-Man Contribution Game"
+    width="100%"
+  />
+</p>
+
+<br>
+
+> 🟢 Every contribution is another level.
+>
+> 👾 Every bug is another enemy.
+>
+> 🚀 Keep coding. Keep building.
+
+</div>
+
+---
+
+<div align="center">
+
 ## 🚀 About Me
 
 <br>
@@ -213,31 +241,7 @@
 
 ---
 
-<div align="center">
 
-## 🎮 Contribution Arcade
-
-<br>
-
-### 👾 Pac-Man Contribution Game
-
-<p>
-  <img
-    src="https://raw.githubusercontent.com/VishnuVibin/VishnuVibin/output/pacman-contribution-graph-dark.svg"
-    alt="Pac-Man Contribution Game"
-    width="100%"
-  />
-</p>
-
-<br>
-
-> 🟢 Every contribution is another level.
->
-> 👾 Every bug is another enemy.
->
-> 🚀 Keep coding. Keep building.
-
-</div>
 
 ---
 
